@@ -8,7 +8,9 @@ Esse projeto contém uma documentação explicando como seria a DAO do LizaWeb C
 
 ## 🤖 Tecnologias Utilizadas
 ChatGPT - Implementar documentação (COMO CONFIGURAR A SUA DAO)
+
 LeonardoAI - Criação de Imagens para Tokens e Logo
+
 Snapshot - Criação de votações 
 
 ## 🧐 Resultado
